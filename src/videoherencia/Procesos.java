@@ -27,7 +27,7 @@ public class Procesos {
         System.out.println("************");
         
         Mujer madre = new Mujer();
-        madre.setNombre("Maria");
+        madre.setNombre("Petra");
         madre.comer(madre.getNombre());
         madre.dormir();
     }
