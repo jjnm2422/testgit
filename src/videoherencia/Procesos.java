@@ -29,6 +29,5 @@ public class Procesos {
         Mujer madre = new Mujer();
         madre.setNombre("Juana");
         madre.comer(madre.getNombre());
-        madre.dormir();
     }
 }
