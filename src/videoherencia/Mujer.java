@@ -14,6 +14,6 @@ public class Mujer extends Humano{
         System.out.println("***********");
     }
     public void peinarse(){
-        System.out.println("se esta peinando");
+        System.out.println("se");
     }
 }
