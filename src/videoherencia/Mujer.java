@@ -13,7 +13,4 @@ public class Mujer extends Humano{
     public void maquillarse(String nombre){
         System.out.println("se esta maquillando (clase Mujer)");
     }
-    public void peinarse(){
-        System.out.println("se esta peinando");
-    }
 }
