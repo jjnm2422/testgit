@@ -11,9 +11,6 @@ package videoherencia;
  */
 public class Mujer extends Humano{
     public void maquillarse(String nombre){
-        System.out.println("se esta maquillando (clase Mujer)");
-    }
-    public void peinarse(String nombre){
-        System.out.println(nombre+"se esta peinando del cabello");
+        System.out.println("***********");
     }
 }
