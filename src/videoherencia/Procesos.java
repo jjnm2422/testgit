@@ -19,7 +19,7 @@ public class Procesos {
         System.out.println();
         
         Hombre padre = new Hombre();
-        padre.setNombre("maduro");
+        padre.setNombre("juan");
         padre.comer(padre.getNombre());
         padre.dormir();
         padre.afeitarse();
