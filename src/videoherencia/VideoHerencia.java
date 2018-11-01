@@ -15,7 +15,7 @@ public class VideoHerencia {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Procesos procesos = new Procesos();
+        MisProcesos procesos = new MisProcesos();
         procesos.iniciar();
     }
     

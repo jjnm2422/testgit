@@ -9,7 +9,7 @@ package videoherencia;
  *
  * @author NAVARRO
  */
-public class Procesos {
+public class MisProcesos {
     public void iniciar(){
         Humano adulto = new Humano();
         adulto.setNombre("juan");
