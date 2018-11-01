@@ -30,6 +30,5 @@ public class Procesos {
         madre.setNombre("Maria");
         madre.comer(madre.getNombre());
         madre.dormir();
-        madre.maquillarse(madre.getNombre());
     }
 }
